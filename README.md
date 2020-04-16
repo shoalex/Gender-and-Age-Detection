@@ -15,6 +15,12 @@ What things you need:
 * argparse install command:
   pip3 install argparse
 
+## Usage:
+- Detecting Gender and Age of face in Image Use Command :
+python3 detect.py --image <image_name>
+
+- etecting Gender and Age of face through webcam Use Command :
+python3 detect.py
 ## Acknowledgments
 
 * The project works in HIT
