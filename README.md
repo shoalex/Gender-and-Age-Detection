@@ -12,7 +12,7 @@ What things you need:
 * OpenCV install command:
   pip3 install opencv-python
 
-* OpenCV install command:
+* argparse install command:
   pip3 install argparse
 
 ## Acknowledgments
